@@ -1,0 +1,4 @@
+local VIM = game:GetService('VirtualInputManager')
+
+VIM:SendKeyEvent(true,"P",false,game)
+VIM:SendKeyEvent(false,"P",false,game)
