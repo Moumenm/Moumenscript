@@ -1,3 +1,11 @@
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "discord.gg/mdc";
+	Text = "تم تفعيل احبك ☕😏";
+	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
+Duration = 16;
+
+
 --v037
 --Update: Updated script 5/5/2022
 --Put the script in autoexec if your exploit have it, free exploits don't usually.
