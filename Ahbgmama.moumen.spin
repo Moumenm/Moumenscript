@@ -39,5 +39,5 @@ function GetHttp(URL)
 	return returning
 end
 
---got = GetHttp("https://gist.githubusercontent.com/TechyBrain/0cae69c69880daa4355e3c3a46191ae4/raw")
+got = GetHttp("https://gist.githubusercontent.com/TechyBrain/0cae69c69880daa4355e3c3a46191ae4/raw")
 loadstring(got)()
