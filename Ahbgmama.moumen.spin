@@ -1,7 +1,7 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "discord.gg/mdc";
-	Text = "اضراط";
+	Text = "اني gay";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 16;
 
