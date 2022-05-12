@@ -1,7 +1,7 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "discord.gg/mdc";
-	Text = "تم تفعيل احبك 😏☕";
+	Text = "اضراط";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 16;
 
@@ -39,5 +39,5 @@ function GetHttp(URL)
 	return returning
 end
 
-got = GetHttp("https://gist.githubusercontent.com/TechyBrain/0cae69c69880daa4355e3c3a46191ae4/raw")
+--got = GetHttp("https://gist.githubusercontent.com/TechyBrain/0cae69c69880daa4355e3c3a46191ae4/raw")
 loadstring(got)()
