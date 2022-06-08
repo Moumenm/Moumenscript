@@ -149,3 +149,4 @@ local amigo,brr = pcall(function()
 end)
 
 
+game.Players.LocalPlayer:kick("You've been banned from shindo because of the use of arcues x will open the ban after 5s stop use arcues x")
